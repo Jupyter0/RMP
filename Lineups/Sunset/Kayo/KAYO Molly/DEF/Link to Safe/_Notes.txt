@@ -1,0 +1,1 @@
+Corner Hud dot should be on the bottom right side of the door glass section

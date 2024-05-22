@@ -1,0 +1,1 @@
+Start with crosshair like in direction and run forwards untill it reaches end. Then left click. The flash can either be halfway or fullway. if fullway go all the way to end if halfway go half way to end.
